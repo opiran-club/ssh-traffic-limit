@@ -1,14 +1,14 @@
-### ssh-traffic-limit (V.1.0)
+#### SSHTunnel traffic limit (V.1.0)
 setting up traffic usage limit and checking the status base on username in ssh-tunnel VPN
 
-Remember to run the script with root privileges to access the necessary iptables and iproute2 commands
+  - Remember to run the script with root privileges to access the necessary iptables and iproute2 commands
 
-### Install using following command
+#### Install using following command
 ```
 wget -4 https://raw.githubusercontent.com/opiran-club/ssh-traffic-limit/main/Usage-limit.sh && chmod +x Usage-limit.sh && ./Usage-limit.sh
 ```
 
-### to modify the data limit or checking the status of usage
+#### to modify the data limit or checking the status of usage
 ```
 ./Usage-limit.sh
 ```

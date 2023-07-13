@@ -1,5 +1,5 @@
-# ssh-traffic-limit V.1.0
-setting up data limit and checking the status base on username in ssh tunnel
+## ssh-traffic-limit (V.1.0)
+setting up traffic usage limit and checking the status base on username in ssh-tunnel VPN
 
 ## Installing using following command
 ```

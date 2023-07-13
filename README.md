@@ -3,7 +3,7 @@ setting up traffic usage limit and checking the status base on username in ssh-t
 
   - Remember to run the script with root privileges to access the necessary iptables and iproute2 commands
 
-#### Install using following command
+#### Running the script with following command
 ```
 wget -4 https://raw.githubusercontent.com/opiran-club/ssh-traffic-limit/main/Usage-limit.sh && chmod +x Usage-limit.sh && ./Usage-limit.sh
 ```

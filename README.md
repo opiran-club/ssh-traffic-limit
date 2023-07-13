@@ -1,4 +1,4 @@
-#### SSHTunnel traffic control and monitoring https://img.shields.io/badge/just%20the%20message-8A2BE2
+#### SSHTunnel traffic control and monitoring -https://img.shields.io/badge/just%20the%20message-8A2BE2
 setting up traffic usage limit and checking the status base on username in ssh-tunnel VPN
 
   - Remember to run the script with root privileges to access the necessary iptables and iproute2 commands
